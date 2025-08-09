@@ -1,0 +1,12 @@
+
+API	Application Programming Interface	
+SDK	Software Development Kit		
+IDE	Integrated Development Environment	
+OOP	Object-Oriented Programming		
+MVC	Model-View-Controller			
+MVVM	Model-View-ViewModel			
+REST	Representational State Transfer		
+JSON	JavaScript Object Notation		
+XML	eXtensible Markup Language		
+ORM	Object-Relational Mapping		
+FIFO  First In First Out
